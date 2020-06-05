@@ -1,3 +1,3 @@
 # quad_project
-Hi Rotem
+Hi Rotem\n
 We Have Github!!
